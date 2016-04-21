@@ -2,4 +2,4 @@
 
 Desenvolvimento de Jogo Educativo utilizando Java Script, CSS3 e HTML5.
 
-Projeto para o TCC do curso de Sistemas de Informação
+Projeto para o TCC do curso de Sistemas de Informação da Universidade do Vale do Sapucaí (UNIVÁS)
